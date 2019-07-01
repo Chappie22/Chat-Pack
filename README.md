@@ -1,6 +1,10 @@
 # Chat-Pack
 The Cross-Platform TCP Messanger with stable version of Listener and Client<br />
 <br />
+Used technologies:<br />
+-> .Net Core
+-> Xamarin Forms (NetStandart library)
+<br />
 Listener supported platforms: <br />
 -> Linux,<br />
 -> Windows,<br />
