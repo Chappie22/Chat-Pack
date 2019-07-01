@@ -2,8 +2,8 @@
 The Cross-Platform TCP Messanger with stable version of Listener and Client<br />
 <br />
 Used technologies:<br />
--> .Net Core
--> Xamarin Forms (NetStandart library)
+-> .Net Core<br />
+-> Xamarin Forms (NetStandart library)<br />
 <br />
 Listener supported platforms: <br />
 -> Linux,<br />
