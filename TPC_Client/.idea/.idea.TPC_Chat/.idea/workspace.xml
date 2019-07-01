@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="011ce297-a919-4fc1-a894-881af32528bb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TPC_Chat/Pages/MainPage.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+              <folding>
+                <marker date="1562012061404" expanded="true" signature="6:179" ph="..." />
+                <marker date="1562012061404" expanded="true" signature="199:1942" ph="{...}" />
+                <marker date="1562012061404" expanded="true" signature="206:340" ph="/* Learn more about making custom code visible in the Xamarin.Forms previewer ... */" />
+                <marker date="1562012061404" expanded="true" signature="418:1940" ph="{...}" />
+                <marker date="1562012061404" expanded="true" signature="641:851" ph="{...}" />
+                <marker date="1562012061404" expanded="true" signature="924:1325" ph="{...}" />
+                <marker date="1562012061404" expanded="true" signature="950:1161" ph="{...}" />
+                <marker date="1562012061404" expanded="true" signature="1201:1315" ph="{...}" />
+                <marker date="1562012061404" expanded="true" signature="1403:1934" ph="{...}" />
+                <marker date="1562012061404" expanded="true" signature="1429:1645" ph="{...}" />
+                <marker date="1562012061404" expanded="true" signature="1684:1786" ph="{...}" />
+                <marker date="1562012061404" expanded="true" signature="1826:1924" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TPC_Chat/Test/TCP_Client.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding>
+                <marker date="1561971718825" expanded="false" signature="6:289" ph="..." />
+                <marker date="1561971718825" expanded="true" signature="314:1512" ph="{...}" />
+                <marker date="1561971718825" expanded="true" signature="344:1510" ph="{...}" />
+                <marker date="1561971718825" expanded="true" signature="480:1504" ph="{...}" />
+                <marker date="1561971718825" expanded="true" signature="506:1270" ph="{...}" />
+                <marker date="1561971718825" expanded="true" signature="1308:1384" ph="{...}" />
+                <marker date="1561971718825" expanded="true" signature="1416:1494" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TPC_Chat/ConstVariables/ServerAndPort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+              <folding>
+                <marker date="1562009217338" expanded="true" signature="33:218" ph="{...}" />
+                <marker date="1562009217338" expanded="true" signature="73:216" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/mcs/class/referencesource/mscorlib/system/threading/executioncontext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18316">
+              <caret line="964" column="16" selection-start-line="964" selection-start-column="16" selection-end-line="964" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TPC_Chat/Models/OutputMessage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <marker date="1561902592663" expanded="false" signature="6:34" ph="..." />
+                <marker date="1561902592663" expanded="true" signature="61:441" ph="{...}" />
+                <marker date="1561902592663" expanded="true" signature="94:439" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TPC_Chat/Repositories/ChatData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+              <folding>
+                <marker date="1562012505212" expanded="true" signature="6:309" ph="..." />
+                <marker date="1562012505212" expanded="true" signature="342:4269" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="369:702" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="729:4267" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="928:1109" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="1165:1400" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="1506:2740" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="1554:2730" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="2001:2590" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="2187:2572" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="2626:2699" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="2806:3564" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="2960:3518" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="3598:3735" ph="{...}" />
+                <marker date="1562012505212" expanded="true" signature="3778:4261" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TPC_Chat.Android/MainActivity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <marker date="1562014803047" expanded="false" signature="6:142" ph="..." />
+                <marker date="1562014803047" expanded="true" signature="168:1264" ph="{...}" />
+                <marker date="1562014803047" expanded="true" signature="175:367" ph="[...]" />
+                <marker date="1562014803047" expanded="true" signature="461:1262" ph="{...}" />
+                <marker date="1562014803047" expanded="true" signature="535:891" ph="{...}" />
+                <marker date="1562014803047" expanded="true" signature="1042:1256" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.Debugging.targets">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11666">
+              <caret line="614" column="4" selection-start-line="614" selection-start-column="4" selection-end-line="614" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corert/src/System.Private.CoreLib/src/System/Threading/Tasks/Task.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16777">
+              <caret line="896" column="16" selection-start-line="896" selection-start-column="16" selection-end-line="896" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corert/src/System.Private.CoreLib/src/System/Runtime/CompilerServices/TaskAwaiter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2774">
+              <caret line="150" column="8" selection-start-line="150" selection-start-column="8" selection-end-line="150" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corert/src/System.Private.CoreLib/src/System/Threading/Tasks/TaskContinuation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat/Models/OutputMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat/Test/TCP_Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat/Repositories/ChatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/mcs/class/referencesource/mscorlib/system/threading/executioncontext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat/Pages/MainPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8740D651-C304-4D0D-A90D-26CF551005E4/e6/c6fb7fc2/ImageButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat/Pages/MainPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/Foundation/NSAction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat.Android/MainActivity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat/ConstVariables/ServerAndPort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat.iOS/AppDelegate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corert/src/System.Private.CoreLib/src/System/Runtime/CompilerServices/TaskAwaiter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/mcs/class/referencesource/mscorlib/system/runtime/compilerservices/AsyncMethodBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corert/src/System.Private.CoreLib/src/System/Threading/Tasks/Future.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TPC_Chat.iOS/Renderers/ExtendedViewCellRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corert/src/System.Private.CoreLib/src/System/Threading/Tasks/Task.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TPC_Chat/Test/TCP_CLient.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/Test/TCP_Client.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/Models/Message.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/Models/UserModel.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/Models/OutputMessage.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat.Android/Resources/values/styles.xml" />
+        <option value="$PROJECT_DIR$/TPC_Chat.iOS/Renderers/Class1.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat.iOS/Renderers/ExtendedViewCellRenderer.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/MainPage.xaml" />
+        <option value="$PROJECT_DIR$/TPC_Chat/App.xaml.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/Models/ChatData.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/Repositories.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/MainPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/Pages/MainPage.xaml" />
+        <option value="$PROJECT_DIR$/TPC_Chat/ConstVariables/ServerAndPort.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/Pages/MainPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat/Repositories/ChatData.cs" />
+        <option value="$PROJECT_DIR$/TPC_Chat.Android/MainActivity.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="TPC_Chat.Android/invalid/Android Facet - TPC_Chat.Android" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="16" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="942" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TPC_Chat" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TPC_Chat" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TPC_Chat" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TPC_Chat" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TPC_Chat" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Repositories" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TPC_Chat" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TPC_Chat.Android" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Xamarin.Android.Android Default">
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TPC_Chat.Android/TPC_Chat.Android.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="Nexus_5X_API_27" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TPC_Chat.iOS/TPC_Chat.iOS.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEFAULT_IPHONE_DEVICE" value="" />
+      <option name="DEFAULT_IPHONE_SIMULATOR" value="iPhone Xs iOS 12.2" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Simulator" />
+      <option name="IS_PASS_PARENT_ENVS" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Xamarin.Android.Android Default" />
+      <item itemvalue="Xamarin.iOS.iOS Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="011ce297-a919-4fc1-a894-881af32528bb" name="Default Changelist" comment="" />
+      <created>1561292822791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561292822791</updated>
+      <workItem from="1561292824262" duration="1651000" />
+      <workItem from="1561882621162" duration="29260000" />
+      <workItem from="1561921391712" duration="11320000" />
+      <workItem from="1561970194527" duration="12908000" />
+      <workItem from="1562014114149" duration="664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55803000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="942" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14652015" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.03529412" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39882353" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.3282353" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="13" weight="0.3293979" />
+      <window_info anchor="bottom" id="Logcat" order="14" />
+      <window_info anchor="bottom" id="Unit Tests" order="15" weight="0.3293979" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" weight="0.15934066" />
+      <window_info anchor="right" id="Errors In Solution" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="129" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="66" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/TPC_Chat/Repositories/ChatData.cs</url>
+          <line>90</line>
+          <properties documentPath="$PROJECT_DIR$/TPC_Chat/Repositories/ChatData.cs" initialLine="90">
+            <startOffsets>
+              <option value="2908" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3519" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TPC_Chat.iOS/Resources/SendIco.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8740D651-C304-4D0D-A90D-26CF551005E4/e6/c6fb7fc2/ImageButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="356" column="37" selection-start-line="356" selection-start-column="37" selection-end-line="356" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Mono.framework/Versions/5.18.1/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="1676" column="4" selection-start-line="1676" selection-start-column="4" selection-end-line="1676" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corert/src/System.Private.CoreLib/src/System/Threading/Tasks/TaskContinuation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="410" column="12" selection-start-line="410" selection-start-column="12" selection-end-line="410" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corert/src/System.Private.CoreLib/src/System/Threading/Tasks/Future.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="433" column="16" selection-start-line="433" selection-start-column="16" selection-end-line="433" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat.Android/Resources/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat.Android/Resources/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat.iOS/Renderers/ExtendedViewCellRenderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <marker date="1561905033619" expanded="true" signature="6:88" ph="..." />
+            <marker date="1561905033619" expanded="true" signature="288:661" ph="{...}" />
+            <marker date="1561905033619" expanded="true" signature="399:655" ph="{...}" />
+            <marker date="1561905033619" expanded="true" signature="537:618" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat.Android/Resources/drawable/SendIco.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat.iOS/AppDelegate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <marker date="1561971718850" expanded="false" signature="6:97" ph="..." />
+            <marker date="1561971718850" expanded="true" signature="121:1088" ph="{...}" />
+            <marker date="1561971718850" expanded="true" signature="128:353" ph="/* The UIApplicationDelegate for the application. This class is responsible for launching the ... */" />
+            <marker date="1561971718850" expanded="true" signature="482:1086" ph="{...}" />
+            <marker date="1561971718850" expanded="true" signature="497:834" ph="/* This method is invoked when the application has loaded and is ready to run. In this ... */" />
+            <marker date="1561971718850" expanded="true" signature="922:1080" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/Foundation/NSAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3344">
+          <caret line="179" column="16" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat.Android/Properties/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <marker date="1561971953561" expanded="false" signature="6:60" ph="..." />
+            <marker date="1561971953561" expanded="true" signature="125:732" ph="{...}" />
+            <marker date="1561971953561" expanded="true" signature="152:406" ph="{...}" />
+            <marker date="1561971953561" expanded="true" signature="268:395" ph="{...}" />
+            <marker date="1561971953561" expanded="true" signature="449:512" ph="{...}" />
+            <marker date="1561971953561" expanded="true" signature="555:618" ph="{...}" />
+            <marker date="1561971953561" expanded="true" signature="662:726" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/mcs/class/referencesource/mscorlib/system/runtime/compilerservices/AsyncMethodBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20596">
+          <caret line="1094" column="12" selection-start-line="1094" selection-start-column="12" selection-end-line="1094" selection-end-column="12" />
+          <folding>
+            <marker date="1558790847433" expanded="true" signature="0:432" ph="/* ==++== ... */" />
+            <marker date="1558790847433" expanded="true" signature="920:60492" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="927:1082" ph="/// Provides a builder for asynchronous methods that return void. ... " />
+            <marker date="1558790847433" expanded="true" signature="1194:12910" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="1662:1825" ph="///Initializes a new &lt;see cref=&quot;AsyncVoidMethodBuilder&quot;/&gt;. ... " />
+            <marker date="1558790847433" expanded="true" signature="1879:2395" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="1902:2157" ph="/* Capture the current sync context.  If there isn't one, use the dummy s_noContextCaptured ... */" />
+            <marker date="1558790847433" expanded="true" signature="2405:2841" ph="///Initiates the builder's execution with the associated state machine. ... " />
+            <marker date="1558790847433" expanded="true" signature="3016:3889" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="3039:3148" ph="/* See comment on AsyncMethodBuilderCore.Start ... */" />
+            <marker date="1558790847433" expanded="true" signature="3291:3514" ph="/* Run the MoveNext method within a copy-on-write ExecutionContext scope. ... */" />
+            <marker date="1558790847433" expanded="true" signature="3665:3803" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="3823:3879" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="3899:4337" ph="///Associates the builder with the state machine it represents. ... " />
+            <marker date="1558790847433" expanded="true" signature="4406:4538" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="4548:4997" ph="/// Schedules the specified state machine to be pushed forward when the specified awaiter completes. ... " />
+            <marker date="1558790847433" expanded="true" signature="5226:7197" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="5252:6503" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="5769:6437" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="6022:6171" ph="/* Box the state machine, then tell the boxed instance to call back into its own builder, ... */" />
+            <marker date="1558790847433" expanded="true" signature="6537:7187" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="6568:7096" ph="/* Prevent exceptions from leaking to the call site, which could ... */" />
+            <marker date="1558790847433" expanded="true" signature="7207:7656" ph="/// Schedules the specified state machine to be pushed forward when the specified awaiter completes. ... " />
+            <marker date="1558790847433" expanded="true" signature="7930:9358" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="7956:9213" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="8473:9141" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="8726:8875" ph="/* Box the state machine, then tell the boxed instance to call back into its own builder, ... */" />
+            <marker date="1558790847433" expanded="true" signature="9245:9348" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="9465:9811" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="9713:9801" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="9821:10234" ph="///Faults the method builder with an exception. ... " />
+            <marker date="1558790847433" expanded="true" signature="10288:11502" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="10655:11139" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="10686:10838" ph="/* If we captured a synchronization context, Post the throwing of the exception to it ... */" />
+            <marker date="1558790847433" expanded="true" signature="10858:11001" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="11025:11125" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="11156:11492" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="11187:11395" ph="/* Otherwise, queue the exception to be thrown on the ThreadPool.  This will ... */" />
+            <marker date="1558790847433" expanded="true" signature="11673:12192" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="11808:11899" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="11933:12182" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="11964:12091" ph="/* If the interaction with the SynchronizationContext goes awry, ... */" />
+            <marker date="1558790847433" expanded="true" signature="12306:12458" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="12332:12448" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="12468:12831" ph="/// Gets an object that may be used to uniquely identify this builder to the debugger. ... " />
+            <marker date="1558790847433" expanded="true" signature="12916:13398" ph="/// Provides a builder for asynchronous methods that return &lt;see cref=&quot;System.Threading.Tasks.Task&quot;/&gt;. ... " />
+            <marker date="1558790847433" expanded="true" signature="13510:20973" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="13977:14140" ph="///Initializes a new &lt;see cref=&quot;AsyncTaskMethodBuilder&quot;/&gt;. ... " />
+            <marker date="1558790847433" expanded="true" signature="14194:14432" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="14269:14422" ph="/* Note: If ATMB&lt;T&gt;.Create is modified to do any initialization, this ... */" />
+            <marker date="1558790847433" expanded="true" signature="14442:14726" ph="///Initiates the builder's execution with the associated state machine. ... " />
+            <marker date="1558790847433" expanded="true" signature="14901:15774" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="14924:15033" ph="/* See comment on AsyncMethodBuilderCore.Start ... */" />
+            <marker date="1558790847433" expanded="true" signature="15176:15399" ph="/* Run the MoveNext method within a copy-on-write ExecutionContext scope. ... */" />
+            <marker date="1558790847433" expanded="true" signature="15550:15688" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="15708:15764" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="15784:16222" ph="///Associates the builder with the state machine it represents. ... " />
+            <marker date="1558790847433" expanded="true" signature="16291:16421" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="16431:16880" ph="/// Schedules the specified state machine to be pushed forward when the specified awaiter completes. ... " />
+            <marker date="1558790847433" expanded="true" signature="17109:17225" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="17235:17684" ph="/// Schedules the specified state machine to be pushed forward when the specified awaiter completes. ... " />
+            <marker date="1558790847433" expanded="true" signature="17927:18049" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="18059:18385" ph="///Gets the &lt;see cref=&quot;System.Threading.Tasks.Task&quot;/&gt; for this builder. ... " />
+            <marker date="1558790847433" expanded="true" signature="18455:18868" ph="/// Completes the &lt;see cref=&quot;System.Threading.Tasks.Task&quot;/&gt; in the  ... " />
+            <marker date="1558790847433" expanded="true" signature="18900:19125" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="18923:19063" ph="/* Accessing AsyncTaskMethodBuilder.s_cachedCompleted is faster than ... */" />
+            <marker date="1558790847433" expanded="true" signature="19135:19822" ph="/// Completes the &lt;see cref=&quot;System.Threading.Tasks.Task&quot;/&gt; in the  ... " />
+            <marker date="1558790847433" expanded="true" signature="19925:20269" ph="/// Called by the debugger to request notification when the first wait operation ... " />
+            <marker date="1558790847433" expanded="true" signature="20338:20423" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="20433:20894" ph="/// Gets an object that may be used to uniquely identify this builder to the debugger. ... " />
+            <marker date="1558790847433" expanded="true" signature="20979:21479" ph="/// Provides a builder for asynchronous methods that return &lt;see cref=&quot;System.Threading.Tasks.Task{TResult}&quot;/&gt;. ... " />
+            <marker date="1558790847433" expanded="true" signature="21600:41975" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="21806:22206" ph="/* WARNING: For performance reasons, the m_task field is lazily initialized. ... */" />
+            <marker date="1558790847433" expanded="true" signature="22529:22692" ph="///Initializes a new &lt;see cref=&quot;AsyncTaskMethodBuilder&quot;/&gt;. ... " />
+            <marker date="1558790847433" expanded="true" signature="22755:23004" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="22839:22994" ph="/* NOTE:  If this method is ever updated to perform more initialization, ... */" />
+            <marker date="1558790847433" expanded="true" signature="23014:23298" ph="///Initiates the builder's execution with the associated state machine. ... " />
+            <marker date="1558790847433" expanded="true" signature="23473:24346" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="23496:23605" ph="/* See comment on AsyncMethodBuilderCore.Start ... */" />
+            <marker date="1558790847433" expanded="true" signature="23748:23971" ph="/* Run the MoveNext method within a copy-on-write ExecutionContext scope. ... */" />
+            <marker date="1558790847433" expanded="true" signature="24122:24260" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="24280:24336" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="24356:24794" ph="///Associates the builder with the state machine it represents. ... " />
+            <marker date="1558790847433" expanded="true" signature="24863:24995" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="25005:25454" ph="/// Schedules the specified state machine to be pushed forward when the specified awaiter completes. ... " />
+            <marker date="1558790847433" expanded="true" signature="25683:27136" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="25709:26991" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="26226:26925" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="26265:26436" ph="/* Force the Task to be initialized prior to the first suspending await so ... */" />
+            <marker date="1558790847433" expanded="true" signature="26505:26654" ph="/* Box the state machine, then tell the boxed instance to call back into its own builder, ... */" />
+            <marker date="1558790847433" expanded="true" signature="27023:27126" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="27146:27595" ph="/// Schedules the specified state machine to be pushed forward when the specified awaiter completes. ... " />
+            <marker date="1558790847433" expanded="true" signature="27869:29328" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="27895:29183" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="28412:29111" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="28451:28622" ph="/* Force the Task to be initialized prior to the first suspending await so ... */" />
+            <marker date="1558790847433" expanded="true" signature="28691:28840" ph="/* Box the state machine, then tell the boxed instance to call back into its own builder, ... */" />
+            <marker date="1558790847433" expanded="true" signature="29215:29318" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="29338:29575" ph="///Gets the &lt;see cref=&quot;System.Threading.Tasks.Task{TResult}&quot;/&gt; for this builder. ... " />
+            <marker date="1558790847433" expanded="true" signature="29609:29907" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="29635:29897" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="29917:30339" ph="/// Completes the &lt;see cref=&quot;System.Threading.Tasks.Task{TResult}&quot;/&gt; in the  ... " />
+            <marker date="1558790847433" expanded="true" signature="30385:31581" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="30408:30563" ph="/* Get the currently stored task, which will be non-null if get_Task has already been accessed. ... */" />
+            <marker date="1558790847433" expanded="true" signature="30624:30797" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="30868:31571" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="31224:31340" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="31389:31557" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="31591:32011" ph="/// Completes the builder by using either the supplied completed task, or by completing ... " />
+            <marker date="1558790847433" expanded="true" signature="32072:32757" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="32301:32466" ph="/* Get the currently stored task, which will be non-null if get_Task has already been accessed. ... */" />
+            <marker date="1558790847433" expanded="true" signature="32527:32595" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="32612:32747" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="32767:33356" ph="/// Completes the &lt;see cref=&quot;System.Threading.Tasks.Task{TResult}&quot;/&gt; in the  ... " />
+            <marker date="1558790847433" expanded="true" signature="33410:34882" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="33605:33762" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="34106:34681" ph="/* Unlike with TaskCompletionSource, we do not need to spin here until m_task is completed, ... */" />
+            <marker date="1558790847433" expanded="true" signature="34716:34872" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="34892:35395" ph="/// Called by the debugger to request notification when the first wait operation ... " />
+            <marker date="1558790847433" expanded="true" signature="35464:35657" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="35667:36128" ph="/// Gets an object that may be used to uniquely identify this builder to the debugger. ... " />
+            <marker date="1558790847433" expanded="true" signature="36211:36515" ph="/// Gets a task for the specified result.  This will either ... " />
+            <marker date="1558790847433" expanded="true" signature="36670:41969" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="36936:38218" ph="/* The goal of this function is to be give back a cached task if possible, ... */" />
+            <marker date="1558790847433" expanded="true" signature="38329:41685" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="38360:38875" ph="/* Special case simple value types: ... */" />
+            <marker date="1558790847433" expanded="true" signature="39012:39334" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="39471:40326" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="39510:39824" ph="/* Compare to constants to avoid static field access if outside of cached range. ... */" />
+            <marker date="1558790847433" expanded="true" signature="40020:40308" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="41587:41671" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="41756:41828" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="42104:44017" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="43125:43515" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="43378:43479" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="43525:43772" ph="///Creates a non-disposable task. ... " />
+            <marker date="1558790847433" expanded="true" signature="43855:44011" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="44023:44182" ph="///Holds state related to the builder's IAsyncStateMachine. ... " />
+            <marker date="1558790847433" expanded="true" signature="44225:60490" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="44564:44830" ph="/* This method is copy&amp;pasted into the public Start methods to avoid size overhead of valuetype generic instantia ... */" />
+            <marker date="1558790847433" expanded="true" signature="44849:45284" ph="/*Initiates the builder's execution with the associated state machine. ... */" />
+            <marker date="1558790847433" expanded="true" signature="45632:45855" ph="/* Run the MoveNext method within a copy-on-write ExecutionContext scope. ... */" />
+            <marker date="1558790847433" expanded="true" signature="46304:46742" ph="///Associates the builder with the state machine it represents. ... " />
+            <marker date="1558790847433" expanded="true" signature="46811:47155" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="47165:47765" ph="/// Gets the Action to use with an awaiter's OnCompleted or UnsafeOnCompleted method. ... " />
+            <marker date="1558790847433" expanded="true" signature="47900:51124" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="48098:48701" ph="/* Alert a listening debugger that we can't make forward progress unless it slips threads. ... */" />
+            <marker date="1558790847433" expanded="true" signature="49236:50238" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="49412:49616" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="49634:49800" ph="/* There wasn't a cached delegate, so create one and cache it. ... */" />
+            <marker date="1558790847433" expanded="true" signature="49972:50114" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="50135:50224" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="50251:50432" ph="/* Otherwise, create an Action that flows this context.  The context may be null. ... */" />
+            <marker date="1558790847433" expanded="true" signature="50449:51000" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="50635:50752" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="50770:50986" ph="/* NOTE: If capturedContext is null, we could create the Action to point directly ... */" />
+            <marker date="1558790847433" expanded="true" signature="51212:51710" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="51300:51687" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="51827:52874" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="51872:52256" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="52621:52758" ph="/* Now that we have the state machine, store it into the runner that the action delegate points to. ... */" />
+            <marker date="1558790847433" expanded="true" signature="52884:53151" ph="///Throws the exception on the ThreadPool. ... " />
+            <marker date="1558790847433" expanded="true" signature="53250:54608" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="53273:53408" ph="/* Capture the exception into an ExceptionDispatchInfo so that its ... */" />
+            <marker date="1558790847433" expanded="true" signature="53576:54203" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="53610:53855" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="53903:54189" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="53942:54064" ph="/* If something goes horribly wrong in the Post, we'll ... */" />
+            <marker date="1558790847433" expanded="true" signature="54785:57279" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="55091:55223" ph="///Initializes the runner. ... " />
+            <marker date="1558790847433" expanded="true" signature="55459:55571" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="55719:56609" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="55890:56491" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="55932:56420" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="56512:56595" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="56857:57035" ph="///Invokes the MoveNext method on the supplied IAsyncStateMachine. ... " />
+            <marker date="1558790847433" expanded="true" signature="57178:57269" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="57289:57952" ph="/* &lt;summary&gt; ... */" />
+            <marker date="1558790847433" expanded="true" signature="58017:59151" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="58582:59043" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="59079:59141" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="59274:59384" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="59461:59986" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="59620:59715" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="59830:59948" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="59992:60152" ph="/// Given an action, see if it is a contiunation wrapper and has a Task associated with it.  If so return it (nul ... " />
+            <marker date="1558790847433" expanded="true" signature="60219:60484" ph="{...}" />
+            <marker date="1558790847433" expanded="true" signature="60262:60449" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat/Repositories.cs" />
+    <entry file="file://$PROJECT_DIR$/TPC_Chat/Pages/MainPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1561971953540" expanded="true" signature="40:3643" ph="&lt;&lt;Grid&gt;&#10;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;92*&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;8*&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;&#10;        &lt;ListView SeparatorVisibility=&quot;None&quot;&#10;                  ItemsSource=&quot;{Binding OutputMessages}&quot;&#10;                  VerticalOptions=&quot;FillAndExpand&quot;&#10;                  Grid.Row=&quot;0&quot;&#10;                  HasUnevenRows=&quot;True&quot;&#10;                  x:Name=&quot;ListView&quot;&#10;                  IsEnabled=&quot;True&quot;&#10;                  IsPullToRefreshEnabled=&quot;True&quot;&#10;                  Refreshing=&quot;ListView_OnRefreshing&quot;&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;ViewCell.View&gt;&#10;                            &lt;Frame Padding=&quot;5&quot;&#10;                                   Margin=&quot;8&quot;&#10;                                   BackgroundColor=&quot;{Binding BackgroundMessageColor}&quot;&#10;                                   HasShadow=&quot;False&quot;&#10;                                   HorizontalOptions=&quot;{Binding IsItsUser}&quot;&gt;&#10;                                &lt;Grid RowSpacing=&quot;1&quot;&gt;&#10;                                    &lt;Grid.RowDefinitions&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                    &lt;/Grid.RowDefinitions&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Name}&quot;&#10;                                           Grid.Row=&quot;0&quot;&#10;                                           FontAttributes=&quot;Bold&quot;&#10;                                           TextColor=&quot;{Binding NameColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Text}&quot;&#10;                                           Grid.Row=&quot;1&quot;&#10;                                           FontSize=&quot;18&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding DateTime, StringFormat='{}{0:HH:mm:ss}'}&quot;&#10;                                           Grid.Row=&quot;2&quot;&#10;                                           FontSize=&quot;Small&quot;&#10;                                           HorizontalOptions=&quot;End&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;                                &lt;/Grid&gt;&#10;                            &lt;/Frame&gt;&#10;                        &lt;/ViewCell.View&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&#10;        &lt;/ListView&gt;&#10;&#10;        &lt;Grid Row=&quot;1&quot;&#10;              BackgroundColor=&quot;##98a4b7&quot;&gt;&#10;            &lt;Grid.ColumnDefinitions&gt;&#10;                &lt;ColumnDefinition Width=&quot;90*&quot; /&gt;&#10;                &lt;ColumnDefinition Width=&quot;10*&quot; /&gt;&#10;            &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;            &lt;Entry Grid.Column=&quot;0&quot;&#10;                   Placeholder=&quot;Enter your text&quot;&#10;                   BackgroundColor=&quot;Transparent&quot;&#10;                   TextColor=&quot;WhiteSmoke&quot;&#10;                   PlaceholderColor=&quot;WhiteSmoke&quot;&#10;                   x:Name=&quot;InputMessage&quot;&#10;                   Completed=&quot;Button_OnClicked&quot; /&gt;&#10;&#10;&#10;            &lt;ImageButton Grid.Column=&quot;1&quot;&#10;                         Source=&quot;SendIco.png&quot;&#10;                         Margin=&quot;8&quot;&#10;                         BackgroundColor=&quot;Transparent&quot;&#10;                         Clicked=&quot;Button_OnClicked&quot; /&gt;&#10;        &lt;/Grid&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="306:3628" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;92*&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;8*&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;ListView SeparatorVisibility=&quot;None&quot;&#10;                  ItemsSource=&quot;{Binding OutputMessages}&quot;&#10;                  VerticalOptions=&quot;FillAndExpand&quot;&#10;                  Grid.Row=&quot;0&quot;&#10;                  HasUnevenRows=&quot;True&quot;&#10;                  x:Name=&quot;ListView&quot;&#10;                  IsEnabled=&quot;True&quot;&#10;                  IsPullToRefreshEnabled=&quot;True&quot;&#10;                  Refreshing=&quot;ListView_OnRefreshing&quot;&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;ViewCell.View&gt;&#10;                            &lt;Frame Padding=&quot;5&quot;&#10;                                   Margin=&quot;8&quot;&#10;                                   BackgroundColor=&quot;{Binding BackgroundMessageColor}&quot;&#10;                                   HasShadow=&quot;False&quot;&#10;                                   HorizontalOptions=&quot;{Binding IsItsUser}&quot;&gt;&#10;                                &lt;Grid RowSpacing=&quot;1&quot;&gt;&#10;                                    &lt;Grid.RowDefinitions&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                    &lt;/Grid.RowDefinitions&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Name}&quot;&#10;                                           Grid.Row=&quot;0&quot;&#10;                                           FontAttributes=&quot;Bold&quot;&#10;                                           TextColor=&quot;{Binding NameColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Text}&quot;&#10;                                           Grid.Row=&quot;1&quot;&#10;                                           FontSize=&quot;18&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding DateTime, StringFormat='{}{0:HH:mm:ss}'}&quot;&#10;                                           Grid.Row=&quot;2&quot;&#10;                                           FontSize=&quot;Small&quot;&#10;                                           HorizontalOptions=&quot;End&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;                                &lt;/Grid&gt;&#10;                            &lt;/Frame&gt;&#10;                        &lt;/ViewCell.View&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&#10;        &lt;/ListView&gt; &lt;Grid Row=&quot;1&quot;&#10;              BackgroundColor=&quot;##98a4b7&quot;&gt;&#10;            &lt;Grid.ColumnDefinitions&gt;&#10;                &lt;ColumnDefinition Width=&quot;90*&quot; /&gt;&#10;                &lt;ColumnDefinition Width=&quot;10*&quot; /&gt;&#10;            &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;            &lt;Entry Grid.Column=&quot;0&quot;&#10;                   Placeholder=&quot;Enter your text&quot;&#10;                   BackgroundColor=&quot;Transparent&quot;&#10;                   TextColor=&quot;WhiteSmoke&quot;&#10;                   PlaceholderColor=&quot;WhiteSmoke&quot;&#10;                   x:Name=&quot;InputMessage&quot;&#10;                   Completed=&quot;Button_OnClicked&quot; /&gt;&#10;&#10;&#10;            &lt;ImageButton Grid.Column=&quot;1&quot;&#10;                         Source=&quot;SendIco.png&quot;&#10;                         Margin=&quot;8&quot;&#10;                         BackgroundColor=&quot;Transparent&quot;&#10;                         Clicked=&quot;Button_OnClicked&quot; /&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="322:459" ph="&lt;&lt;RowDefinition Height=&quot;92*&quot; /&gt; &lt;RowDefinition Height=&quot;8*&quot; /&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="469:2811" ph="&lt;&lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;ViewCell.View&gt;&#10;                            &lt;Frame Padding=&quot;5&quot;&#10;                                   Margin=&quot;8&quot;&#10;                                   BackgroundColor=&quot;{Binding BackgroundMessageColor}&quot;&#10;                                   HasShadow=&quot;False&quot;&#10;                                   HorizontalOptions=&quot;{Binding IsItsUser}&quot;&gt;&#10;                                &lt;Grid RowSpacing=&quot;1&quot;&gt;&#10;                                    &lt;Grid.RowDefinitions&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                    &lt;/Grid.RowDefinitions&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Name}&quot;&#10;                                           Grid.Row=&quot;0&quot;&#10;                                           FontAttributes=&quot;Bold&quot;&#10;                                           TextColor=&quot;{Binding NameColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Text}&quot;&#10;                                           Grid.Row=&quot;1&quot;&#10;                                           FontSize=&quot;18&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding DateTime, StringFormat='{}{0:HH:mm:ss}'}&quot;&#10;                                           Grid.Row=&quot;2&quot;&#10;                                           FontSize=&quot;Small&quot;&#10;                                           HorizontalOptions=&quot;End&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;                                &lt;/Grid&gt;&#10;                            &lt;/Frame&gt;&#10;                        &lt;/ViewCell.View&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="868:2791" ph="&lt;&lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;ViewCell.View&gt;&#10;                            &lt;Frame Padding=&quot;5&quot;&#10;                                   Margin=&quot;8&quot;&#10;                                   BackgroundColor=&quot;{Binding BackgroundMessageColor}&quot;&#10;                                   HasShadow=&quot;False&quot;&#10;                                   HorizontalOptions=&quot;{Binding IsItsUser}&quot;&gt;&#10;                                &lt;Grid RowSpacing=&quot;1&quot;&gt;&#10;                                    &lt;Grid.RowDefinitions&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                    &lt;/Grid.RowDefinitions&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Name}&quot;&#10;                                           Grid.Row=&quot;0&quot;&#10;                                           FontAttributes=&quot;Bold&quot;&#10;                                           TextColor=&quot;{Binding NameColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Text}&quot;&#10;                                           Grid.Row=&quot;1&quot;&#10;                                           FontSize=&quot;18&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding DateTime, StringFormat='{}{0:HH:mm:ss}'}&quot;&#10;                                           Grid.Row=&quot;2&quot;&#10;                                           FontSize=&quot;Small&quot;&#10;                                           HorizontalOptions=&quot;End&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;                                &lt;/Grid&gt;&#10;                            &lt;/Frame&gt;&#10;                        &lt;/ViewCell.View&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="908:2754" ph="&lt;&lt;ViewCell&gt;&#10;                        &lt;ViewCell.View&gt;&#10;                            &lt;Frame Padding=&quot;5&quot;&#10;                                   Margin=&quot;8&quot;&#10;                                   BackgroundColor=&quot;{Binding BackgroundMessageColor}&quot;&#10;                                   HasShadow=&quot;False&quot;&#10;                                   HorizontalOptions=&quot;{Binding IsItsUser}&quot;&gt;&#10;                                &lt;Grid RowSpacing=&quot;1&quot;&gt;&#10;                                    &lt;Grid.RowDefinitions&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                    &lt;/Grid.RowDefinitions&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Name}&quot;&#10;                                           Grid.Row=&quot;0&quot;&#10;                                           FontAttributes=&quot;Bold&quot;&#10;                                           TextColor=&quot;{Binding NameColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Text}&quot;&#10;                                           Grid.Row=&quot;1&quot;&#10;                                           FontSize=&quot;18&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding DateTime, StringFormat='{}{0:HH:mm:ss}'}&quot;&#10;                                           Grid.Row=&quot;2&quot;&#10;                                           FontSize=&quot;Small&quot;&#10;                                           HorizontalOptions=&quot;End&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;                                &lt;/Grid&gt;&#10;                            &lt;/Frame&gt;&#10;                        &lt;/ViewCell.View&gt;&#10;                    &lt;/ViewCell&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="943:2722" ph="&lt;&lt;ViewCell.View&gt;&#10;                            &lt;Frame Padding=&quot;5&quot;&#10;                                   Margin=&quot;8&quot;&#10;                                   BackgroundColor=&quot;{Binding BackgroundMessageColor}&quot;&#10;                                   HasShadow=&quot;False&quot;&#10;                                   HorizontalOptions=&quot;{Binding IsItsUser}&quot;&gt;&#10;                                &lt;Grid RowSpacing=&quot;1&quot;&gt;&#10;                                    &lt;Grid.RowDefinitions&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                    &lt;/Grid.RowDefinitions&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Name}&quot;&#10;                                           Grid.Row=&quot;0&quot;&#10;                                           FontAttributes=&quot;Bold&quot;&#10;                                           TextColor=&quot;{Binding NameColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Text}&quot;&#10;                                           Grid.Row=&quot;1&quot;&#10;                                           FontSize=&quot;18&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding DateTime, StringFormat='{}{0:HH:mm:ss}'}&quot;&#10;                                           Grid.Row=&quot;2&quot;&#10;                                           FontSize=&quot;Small&quot;&#10;                                           HorizontalOptions=&quot;End&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;                                &lt;/Grid&gt;&#10;                            &lt;/Frame&gt;&#10;                        &lt;/ViewCell.View&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="978:2690" ph="&lt;&lt;Frame Padding=&quot;5&quot;&#10;                                   Margin=&quot;8&quot;&#10;                                   BackgroundColor=&quot;{Binding BackgroundMessageColor}&quot;&#10;                                   HasShadow=&quot;False&quot;&#10;                                   HorizontalOptions=&quot;{Binding IsItsUser}&quot;&gt;&#10;                                &lt;Grid RowSpacing=&quot;1&quot;&gt;&#10;                                    &lt;Grid.RowDefinitions&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                    &lt;/Grid.RowDefinitions&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Name}&quot;&#10;                                           Grid.Row=&quot;0&quot;&#10;                                           FontAttributes=&quot;Bold&quot;&#10;                                           TextColor=&quot;{Binding NameColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Text}&quot;&#10;                                           Grid.Row=&quot;1&quot;&#10;                                           FontSize=&quot;18&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding DateTime, StringFormat='{}{0:HH:mm:ss}'}&quot;&#10;                                           Grid.Row=&quot;2&quot;&#10;                                           FontSize=&quot;Small&quot;&#10;                                           HorizontalOptions=&quot;End&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;                                &lt;/Grid&gt;&#10;                            &lt;/Frame&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="1022:2649" ph="&lt;&lt;Grid RowSpacing=&quot;1&quot;&gt;&#10;                                    &lt;Grid.RowDefinitions&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                    &lt;/Grid.RowDefinitions&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Name}&quot;&#10;                                           Grid.Row=&quot;0&quot;&#10;                                           FontAttributes=&quot;Bold&quot;&#10;                                           TextColor=&quot;{Binding NameColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding Text}&quot;&#10;                                           Grid.Row=&quot;1&quot;&#10;                                           FontSize=&quot;18&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;&#10;                                    &lt;Label Text=&quot;{Binding DateTime, StringFormat='{}{0:HH:mm:ss}'}&quot;&#10;                                           Grid.Row=&quot;2&quot;&#10;                                           FontSize=&quot;Small&quot;&#10;                                           HorizontalOptions=&quot;End&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;&#10;                                &lt;/Grid&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="1334:2612" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                        &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;                                    &lt;/Grid.RowDefinitions&gt; &lt;Label Text=&quot;{Binding Name}&quot;&#10;                                           Grid.Row=&quot;0&quot;&#10;                                           FontAttributes=&quot;Bold&quot;&#10;                                           TextColor=&quot;{Binding NameColor}&quot; /&gt; &lt;Label Text=&quot;{Binding Text}&quot;&#10;                                           Grid.Row=&quot;1&quot;&#10;                                           FontSize=&quot;18&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt; &lt;Label Text=&quot;{Binding DateTime, StringFormat='{}{0:HH:mm:ss}'}&quot;&#10;                                           Grid.Row=&quot;2&quot;&#10;                                           FontSize=&quot;Small&quot;&#10;                                           HorizontalOptions=&quot;End&quot;&#10;                                           TextColor=&quot;{Binding TextColor}&quot; /&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="1392:1688" ph="&lt;&lt;RowDefinition Height=&quot;Auto&quot; /&gt; &lt;RowDefinition Height=&quot;Auto&quot; /&gt; &lt;RowDefinition Height=&quot;Auto&quot; /&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="1726:1953" ph="&lt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="1991:2210" ph="&lt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="2248:2572" ph="&lt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="2821:3616" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;                &lt;ColumnDefinition Width=&quot;90*&quot; /&gt;&#10;                &lt;ColumnDefinition Width=&quot;10*&quot; /&gt;&#10;            &lt;/Grid.ColumnDefinitions&gt; &lt;Entry Grid.Column=&quot;0&quot;&#10;                   Placeholder=&quot;Enter your text&quot;&#10;                   BackgroundColor=&quot;Transparent&quot;&#10;                   TextColor=&quot;WhiteSmoke&quot;&#10;                   PlaceholderColor=&quot;WhiteSmoke&quot;&#10;                   x:Name=&quot;InputMessage&quot;&#10;                   Completed=&quot;Button_OnClicked&quot; /&gt; &lt;ImageButton Grid.Column=&quot;1&quot;&#10;                         Source=&quot;SendIco.png&quot;&#10;                         Margin=&quot;8&quot;&#10;                         BackgroundColor=&quot;Transparent&quot;&#10;                         Clicked=&quot;Button_OnClicked&quot; /&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="2888:3048" ph="&lt;&lt;ColumnDefinition Width=&quot;90*&quot; /&gt; &lt;ColumnDefinition Width=&quot;10*&quot; /&gt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="3062:3365" ph="&lt;.../&gt;" />
+            <marker date="1561971953540" expanded="true" signature="3380:3600" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat/Pages/MainPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <folding>
+            <marker date="1562012061404" expanded="true" signature="6:179" ph="..." />
+            <marker date="1562012061404" expanded="true" signature="199:1942" ph="{...}" />
+            <marker date="1562012061404" expanded="true" signature="206:340" ph="/* Learn more about making custom code visible in the Xamarin.Forms previewer ... */" />
+            <marker date="1562012061404" expanded="true" signature="418:1940" ph="{...}" />
+            <marker date="1562012061404" expanded="true" signature="641:851" ph="{...}" />
+            <marker date="1562012061404" expanded="true" signature="924:1325" ph="{...}" />
+            <marker date="1562012061404" expanded="true" signature="950:1161" ph="{...}" />
+            <marker date="1562012061404" expanded="true" signature="1201:1315" ph="{...}" />
+            <marker date="1562012061404" expanded="true" signature="1403:1934" ph="{...}" />
+            <marker date="1562012061404" expanded="true" signature="1429:1645" ph="{...}" />
+            <marker date="1562012061404" expanded="true" signature="1684:1786" ph="{...}" />
+            <marker date="1562012061404" expanded="true" signature="1826:1924" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat/Test/TCP_Client.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <marker date="1561971718825" expanded="false" signature="6:289" ph="..." />
+            <marker date="1561971718825" expanded="true" signature="314:1512" ph="{...}" />
+            <marker date="1561971718825" expanded="true" signature="344:1510" ph="{...}" />
+            <marker date="1561971718825" expanded="true" signature="480:1504" ph="{...}" />
+            <marker date="1561971718825" expanded="true" signature="506:1270" ph="{...}" />
+            <marker date="1561971718825" expanded="true" signature="1308:1384" ph="{...}" />
+            <marker date="1561971718825" expanded="true" signature="1416:1494" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat/ConstVariables/ServerAndPort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+          <folding>
+            <marker date="1562009217338" expanded="true" signature="33:218" ph="{...}" />
+            <marker date="1562009217338" expanded="true" signature="73:216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/mcs/class/referencesource/mscorlib/system/threading/executioncontext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18316">
+          <caret line="964" column="16" selection-start-line="964" selection-start-column="16" selection-end-line="964" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat/Models/OutputMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1561902592663" expanded="false" signature="6:34" ph="..." />
+            <marker date="1561902592663" expanded="true" signature="61:441" ph="{...}" />
+            <marker date="1561902592663" expanded="true" signature="94:439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.Debugging.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11666">
+          <caret line="614" column="4" selection-start-line="614" selection-start-column="4" selection-end-line="614" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corert/src/System.Private.CoreLib/src/System/Threading/Tasks/Task.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16777">
+          <caret line="896" column="16" selection-start-line="896" selection-start-column="16" selection-end-line="896" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corert/src/System.Private.CoreLib/src/System/Runtime/CompilerServices/TaskAwaiter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2774">
+          <caret line="150" column="8" selection-start-line="150" selection-start-column="8" selection-end-line="150" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat/Repositories/ChatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+          <folding>
+            <marker date="1562012505212" expanded="true" signature="6:309" ph="..." />
+            <marker date="1562012505212" expanded="true" signature="342:4269" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="369:702" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="729:4267" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="928:1109" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="1165:1400" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="1506:2740" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="1554:2730" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="2001:2590" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="2187:2572" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="2626:2699" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="2806:3564" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="2960:3518" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="3598:3735" ph="{...}" />
+            <marker date="1562012505212" expanded="true" signature="3778:4261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TPC_Chat.Android/MainActivity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <marker date="1562014803047" expanded="false" signature="6:142" ph="..." />
+            <marker date="1562014803047" expanded="true" signature="168:1264" ph="{...}" />
+            <marker date="1562014803047" expanded="true" signature="175:367" ph="[...]" />
+            <marker date="1562014803047" expanded="true" signature="461:1262" ph="{...}" />
+            <marker date="1562014803047" expanded="true" signature="535:891" ph="{...}" />
+            <marker date="1562014803047" expanded="true" signature="1042:1256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/bin/Release/netstandard2.0/TPC_Chat.deps.json
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/bin/Release/netstandard2.0/TPC_Chat.dll
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/bin/Release/netstandard2.0/TPC_Chat.pdb
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/obj/Release/netstandard2.0/TPC_Chat.csproj.CoreCompileInputs.cache
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/obj/Release/netstandard2.0/TPC_Chat.AssemblyInfoInputs.cache
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/obj/Release/netstandard2.0/TPC_Chat.AssemblyInfo.cs
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/obj/Release/netstandard2.0/XamlC.stamp
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/obj/Release/netstandard2.0/TPC_Chat.dll
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/obj/Release/netstandard2.0/TPC_Chat.pdb
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/obj/Release/netstandard2.0/TPC_Chat.csprojAssemblyReference.cache
+/Users/kirill/Desktop/TPC_Chat/TPC_Chat/obj/Release/netstandard2.0/Pages/MainPage.xaml.g.cs

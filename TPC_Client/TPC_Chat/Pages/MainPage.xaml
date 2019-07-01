@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TPC_Chat"
+             x:Class="TPC_Chat.MainPage"
+             Title="{Binding IsConnected}">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="92*" />
+            <RowDefinition Height="8*" />
+        </Grid.RowDefinitions>
+
+        <ListView SeparatorVisibility="None"
+                  ItemsSource="{Binding OutputMessages}"
+                  VerticalOptions="FillAndExpand"
+                  Grid.Row="0"
+                  HasUnevenRows="True"
+                  x:Name="ListView"
+                  IsEnabled="True"
+                  IsPullToRefreshEnabled="True"
+                  Refreshing="ListView_OnRefreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <Frame Padding="5"
+                                   Margin="8"
+                                   BackgroundColor="{Binding BackgroundMessageColor}"
+                                   HasShadow="False"
+                                   HorizontalOptions="{Binding IsItsUser}">
+                                <Grid RowSpacing="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                    </Grid.RowDefinitions>
+
+                                    <Label Text="{Binding Name}"
+                                           Grid.Row="0"
+                                           FontAttributes="Bold"
+                                           TextColor="{Binding NameColor}" />
+
+                                    <Label Text="{Binding Text}"
+                                           Grid.Row="1"
+                                           FontSize="18"
+                                           TextColor="{Binding TextColor}" />
+
+                                    <Label Text="{Binding DateTime, StringFormat='{}{0:HH:mm:ss}'}"
+                                           Grid.Row="2"
+                                           FontSize="Small"
+                                           HorizontalOptions="End"
+                                           TextColor="{Binding TextColor}" />
+                                </Grid>
+                            </Frame>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Grid Row="1"
+              BackgroundColor="#98a4b7">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="90*" />
+                <ColumnDefinition Width="10*" />
+            </Grid.ColumnDefinitions>
+
+            <Entry Grid.Column="0"
+                   Placeholder="Enter your text"
+                   BackgroundColor="Transparent"
+                   TextColor="WhiteSmoke"
+                   PlaceholderColor="WhiteSmoke"
+                   x:Name="InputMessage"
+                   Completed="Button_OnClicked" />
+
+
+            <ImageButton Grid.Column="1"
+                         Source="SendIco.png"
+                         Margin="8"
+                         BackgroundColor="Transparent"
+                         Clicked="Button_OnClicked" />
+        </Grid>
+    </Grid>
+</ContentPage>

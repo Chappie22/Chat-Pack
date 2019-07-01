@@ -1,0 +1,10 @@
+D:\TCP_Listener\TCP_Listener\bin\Release\netcoreapp2.1\TCP_Listener.deps.json
+D:\TCP_Listener\TCP_Listener\bin\Release\netcoreapp2.1\TCP_Listener.runtimeconfig.json
+D:\TCP_Listener\TCP_Listener\bin\Release\netcoreapp2.1\TCP_Listener.runtimeconfig.dev.json
+D:\TCP_Listener\TCP_Listener\bin\Release\netcoreapp2.1\TCP_Listener.dll
+D:\TCP_Listener\TCP_Listener\bin\Release\netcoreapp2.1\TCP_Listener.pdb
+D:\TCP_Listener\TCP_Listener\obj\Release\netcoreapp2.1\TCP_Listener.csproj.CoreCompileInputs.cache
+D:\TCP_Listener\TCP_Listener\obj\Release\netcoreapp2.1\TCP_Listener.AssemblyInfoInputs.cache
+D:\TCP_Listener\TCP_Listener\obj\Release\netcoreapp2.1\TCP_Listener.AssemblyInfo.cs
+D:\TCP_Listener\TCP_Listener\obj\Release\netcoreapp2.1\TCP_Listener.dll
+D:\TCP_Listener\TCP_Listener\obj\Release\netcoreapp2.1\TCP_Listener.pdb

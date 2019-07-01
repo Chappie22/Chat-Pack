@@ -1,0 +1,9 @@
+/Users/kirill/Desktop/TCP_Listener/TCP_Listener/bin/Debug/netstandard2.0/TCP_Listener.deps.json
+/Users/kirill/Desktop/TCP_Listener/TCP_Listener/bin/Debug/netstandard2.0/TCP_Listener.dll
+/Users/kirill/Desktop/TCP_Listener/TCP_Listener/bin/Debug/netstandard2.0/TCP_Listener.pdb
+/Users/kirill/Desktop/TCP_Listener/TCP_Listener/obj/Debug/netstandard2.0/TCP_Listener.csprojAssemblyReference.cache
+/Users/kirill/Desktop/TCP_Listener/TCP_Listener/obj/Debug/netstandard2.0/TCP_Listener.csproj.CoreCompileInputs.cache
+/Users/kirill/Desktop/TCP_Listener/TCP_Listener/obj/Debug/netstandard2.0/TCP_Listener.AssemblyInfoInputs.cache
+/Users/kirill/Desktop/TCP_Listener/TCP_Listener/obj/Debug/netstandard2.0/TCP_Listener.AssemblyInfo.cs
+/Users/kirill/Desktop/TCP_Listener/TCP_Listener/obj/Debug/netstandard2.0/TCP_Listener.dll
+/Users/kirill/Desktop/TCP_Listener/TCP_Listener/obj/Debug/netstandard2.0/TCP_Listener.pdb

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4F4D5B1F-B51A-4E02-AFCD-E3DEBE03812C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TPC_Chat/Repositories/ChatData.cs">
+    <Files>
+      <File FileName="TPC_Chat.Android/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="TPC_Chat/Repositories/ChatData.cs" Line="104" Column="1" />
+      <File FileName="TPC_Chat/Pages/MainPage.xaml.cs" Line="49" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kirill/Desktop/TPC_Chat/TPC_Chat/Models/ChatData.cs" relfile="TPC_Chat/Models/ChatData.cs" line="42" column="1" />
+      <Breakpoint file="/Users/kirill/Desktop/TPC_Chat/TPC_Chat/Models/ChatData.cs" relfile="TPC_Chat/Models/ChatData.cs" line="49" column="1" />
+      <Breakpoint file="/Users/kirill/Desktop/TPC_Chat/TPC_Chat/Repositories/ChatData.cs" relfile="TPC_Chat/Repositories/ChatData.cs" line="91" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TPC__Chat.Android PreferredExecutionTarget="Android.1041ea64" />
+</Properties>
